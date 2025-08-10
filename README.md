@@ -1,2 +1,2 @@
-# hello-world
+# Beyond limts
 This repository is for practicing the GitHub Flow.
